@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="File Drag &amp; Drop FactBox">
+    <body>
+      <group id="body">
+        <trans-unit id="Page 2453496016 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Content Drag &amp; Drop</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FDD Drag &amp; Drop Factbox - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2453496016 - Control 3414364457 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the File Extensions field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FDD Drag &amp; Drop Factbox - Control File Extension - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2453496016 - Control 804481195 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the File Name field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FDD Drag &amp; Drop Factbox - Control File Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2453496016 - Action 2787516006 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Download File</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FDD Drag &amp; Drop Factbox - Action DownloadFile - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2453496016 - Action 2787516006 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Download File</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FDD Drag &amp; Drop Factbox - Action DownloadFile - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PermissionSet 3358748368 - Property 2879900210" maxwidth="30" size-unit="char" translate="yes" xml:space="preserve">
+          <source>File Drag &amp; Drop</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PermissionSet FDD Drag and Drop - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
